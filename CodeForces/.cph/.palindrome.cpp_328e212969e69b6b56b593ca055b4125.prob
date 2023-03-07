@@ -1,0 +1,1 @@
+{"name":"Local: palindrome","url":"d:\\code\\CodeForces\\palindrome.cpp","tests":[{"id":1677954018739,"input":"1\n6\nltw ti l ltwp i lt wpti pti ltwpt twpti\n","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\CodeForces\\palindrome.cpp","group":"local","local":true}

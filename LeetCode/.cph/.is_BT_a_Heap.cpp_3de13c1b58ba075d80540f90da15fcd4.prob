@@ -1,0 +1,1 @@
+{"name":"Local: is_BT_a_Heap","url":"d:\\code\\LeetCode\\is_BT_a_Heap.cpp","tests":[{"id":1677853128261,"input":"10 20 30 40 60 N N","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\LeetCode\\is_BT_a_Heap.cpp","group":"local","local":true}
